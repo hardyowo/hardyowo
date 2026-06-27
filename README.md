@@ -1,1 +1,1 @@
-I am Khanh Nguyen, an MSc Philosophy student at the University of Glasgow. I completed my philosophy undergrad (MA Hons Philosophy) from the University of Edinburgh with First-Class Honours. This GitHub contains essays for classes I have taken, maths notes, and whatever else I feel like.
+I am Khanh Nguyen, an MSc Philosophy student at the University of Glasgow. I completed my philosophy undergrad (MA Hons Philosophy) at the University of Edinburgh with First-Class Honours. This GitHub contains essays for classes I have taken, maths notes, and whatever else I feel like.
